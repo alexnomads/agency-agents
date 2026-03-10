@@ -24,7 +24,7 @@ Born from a Reddit thread and months of iteration, **The Agency** is a growing c
 
 ## ⚡ Quick Start
 
-### Option 1: Use with Claude Code (Recommended)
+### Option 1: Use with Claude Code (Recommended!)
 
 ```bash
 # Copy agents to your Claude Code directory
